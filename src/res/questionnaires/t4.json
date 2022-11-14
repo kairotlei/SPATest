@@ -1,0 +1,101 @@
+[
+  
+  {
+  "question": "El fenómeno de la reverberación se debe a...",
+  "a": "Absorción acústica",
+  "b": "Refracción del sonido",
+  "c": "Reflexión del sonido",
+  "d": "Ondas estacionarias",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cuál de las siguientes frecuencias es un armónico de 600 Hz?",
+  "a": "1000 Hz",
+  "b": "700 Hz",
+  "c": "1200 Hz",
+  "d": "1500 Hz",
+  "ans": "c"
+}
+,
+{
+  "question": "Qué material contribuye a reducir el tiempo de reverberación de un recinto?",
+  "a": "Azulejos",
+  "b": "Cristal",
+  "c": "Hormigón",
+  "d": "Moqueta",
+  "ans": "d"
+}
+,
+{
+  "question": "Dos recintos con misma absorción y diferente volumen, ¿cuál tiene mayor tiempo de reverberación?",
+  "a": "El recinto de mayor volumen",
+  "b": "El recinto de menor volumen",
+  "c": "Ambos tienen la misma reverberación",
+  "d": "Ninguna respuesta es correcta",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Cuál de los siguientes parámetros no depende de la frecuencia?",
+  "a": "Coeficiente de absorción",
+  "b": "Tiempo de reverberación",
+  "c": "Impedancia de un altavoz",
+  "d": "Ninguno de los anteriores",
+  "ans": "d"
+}
+,
+{
+  "question": "El tiempo de reverberación no depende de...",
+  "a": "El volumen del recinto",
+  "b": "El coef. de absorción de los materiales",
+  "c": "La potencia de sonido emitida",
+  "d": "La frecuencia",
+  "ans": "c"
+}
+,
+{
+  "question": "¿A qué se debe el aumento de la impedancia de un altavoz dinámico en alta frecuencia?",
+  "a": "Efecto inductivo de la bobina",
+  "b": "Frecuencia resonante del altavoz",
+  "c": "Efecto capacitivo del condensador",
+  "d": "La resistencia del hilo de cobre",
+  "ans": "a"
+}
+,
+{
+  "question": "La asociación en paralelo de dos altavoces iguales es equivalente a un altavoz cuya impedancia es...",
+  "a": "Menor que cada altavoz",
+  "b": "Igual que cada altavoz",
+  "c": "Mayor que cada altavoz",
+  "d": "El doble que cada altavoz",
+  "ans": "a"
+}
+,
+{
+  "question": "El sistema bass-réflex consigue mejorar los graves de una caja acústica en unos...",
+  "a": "3 dB",
+  "b": "6 dB",
+  "c": "10 dB",
+  "d": "12 dB",
+  "ans": "a"
+}
+,
+{
+  "question": "Un filtro paso alto de primer orden, ¿en qué componente eléctrico se basa asociado en serie con el altavoz?",
+  "a": "Resistencia",
+  "b": "Bobina",
+  "c": "Condensador",
+  "d": "Transistor",
+  "ans": "c"
+}
+,
+{
+  "question": "En la distancia crítica, el campo reverberante es...",
+  "a": "Mayor que el campo directo",
+  "b": "Igual que el campo directo",
+  "c": "Menor que el campo directo",
+  "d": "Ninguna es correcta",
+  "ans": "b"
+}
+]

@@ -1,0 +1,95 @@
+[
+  
+
+{
+  "question": "¿Qué fenómeno acústico no se produce en los micrófonos omnidireccionales?",
+  "a": "Efecto Larsen",
+  "b": "Efecto de proximidad",
+  "c": "Interferencias",
+  "d": "Rebotes de señal",
+  "ans": "b"
+}
+,
+{
+  "question": "¿En qué principio se basa el funcionamiento de los micrófonos dinámicos?",
+  "a": "Inducción magnética",
+  "b": "Variar la capacidad de un condensador",
+  "c": "Variar la resistencia de un circuito",
+  "d": "Materiales piezoeléctricos",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Cuál de las siguientes polarizaciones es habitual en un micrófono de condensador?",
+  "a": "48V AC",
+  "b": "48V DC",
+  "c": "220V AC",
+  "d": "1V DC",
+  "ans": "b"
+}
+,
+{
+  "question": "¿Cuál de los siguientes micrófonos minimiza el efecto Larsen?",
+  "a": "Bidireccional",
+  "b": "Omnidireccional",
+  "c": "Cardio",
+  "d": "Ninguno",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cuál de los siguientes micrófonos no tiene preamplificador?",
+  "a": "Electret",
+  "b": "Dinámico",
+  "c": "Condensador",
+  "d": "Todos necesitan preamplificador",
+  "ans": "b"
+}
+,
+{
+  "question": "¿Qué tipo de micrófono puede dañarse con la alimentación fantasma?",
+  "a": "De cinta",
+  "b": "Dinámico",
+  "c": "Condensador",
+  "d": "Todos",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Qué tipo de configuración inalámbrica tienen los sistemas in-ear?",
+  "a": "Receptor fijo - transmisor móvil",
+  "b": "Receptor fijo - transmisor fijo",
+  "c": "Receptor móvil - transmisor móvil",
+  "d": "Receptor móvil - transmisor fijo",
+  "ans": "d"
+}
+,
+{
+  "question": "¿Cúal micrófono no sufre efecto Larsen?",
+  "a": "Electret",
+  "b": "Dinámico",
+  "c": "Condensador",
+  "d": "Cualquiera puede sufrir efecto Larsen",
+  "ans": "d"
+}
+,
+{
+  "question": "¿Qué intenta evitar la tecnología diversity de los micrófonos inalámbricos?",
+  "a": "El efecto Larsen",
+  "b": "Las interferencias",
+  "c": "Los rebotes de señal",
+  "d": "El efecto de proximidad",
+  "ans": "c"
+}
+,
+{
+  "question": "¿En dónde siguen utilizándose los micrófonos de carbón?",
+  "a": "Estudios profesionales",
+  "b": "Conciertos en directo",
+  "c": "Teléfonos domésticos",
+  "d": "Ya no se usan",
+  "ans": "c"
+}
+
+
+]

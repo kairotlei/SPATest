@@ -1,0 +1,169 @@
+[
+  
+  {
+  "question": "¿Qué componente eléctrico simula un efecto inductivo en las líneas de transmisión?",
+  "a": "Resistencia",
+  "b": "Bobina",
+  "c": "Condensador",
+  "d": "Ninguno",
+  "ans": "b"
+}
+,
+{
+  "question": "¿Cuál línea de transmisión es más segura frente a interferencias y ruidos eléctricos?",
+  "a": "Paralela bifilar",
+  "b": "Apantallada no balanceada",
+  "c": "Balanceada no apantallada",
+  "d": "Apantallada balanceada",
+  "ans": "d"
+}
+,
+{
+  "question": "Un cable de dos hilos activos y una malla conectada a masa que se utiliza para transportar una señal de audio estéreo es...",
+  "a": "Ni apantallada ni balanceada",
+  "b": "Apantallada no balanceada",
+  "c": "Balanceada no apantallada",
+  "d": "Apantallada balanceada",
+  "ans": "d"
+}
+
+,
+{
+  "question": "La alimentación fantasma...",
+  "a": "Rompe cualquier micrófono",
+  "b": "Opcional en micros de condensador",
+  "c": "Usa el mismo cable de audio",
+  "d": "Polariza y alimenta cajas de inyección",
+  "ans": "c"
+}
+
+,
+{
+  "question": "Para una correcta adaptación de impedancias, los amplificadores deben tener una impedancia...",
+  "a": "Menor a los altavoces",
+  "b": "Mayor a los altavoces",
+  "c": "Igual que los altavoces",
+  "d": "Se adaptan automáticamente",
+  "ans": "c"
+}
+
+,
+{
+  "question": "El ecualizador de un amplificador...",
+  "a": "Aumenta los graves y agudos de bajo volumen",
+  "b": "Ajusta los graves y agudos a gusto del usuario",
+  "c": "Usa filtros Shelving para controlar graves y agudos",
+  "d": "Es un ecualizador paramétrico configurable por el usuario",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cuánto atenúa un filtro paso bajo de orden 3 a partir de la frecuencia de corte?",
+  "a": "3 dB/octava",
+  "b": "6 dB/octava",
+  "c": "12 dB/octava",
+  "d": "18 dB/octava",
+  "ans": "d"
+}
+,
+{
+  "question": "¿Cuál procesador se recomienda para eliminar un zumbido eléctrico?",
+  "a": "Ecualizador gráfico",
+  "b": "Ecualizador semiparamétrico",
+  "c": "Ecualizador paramétrico",
+  "d": "Filtro paso banda",
+  "ans": "c"
+}
+,
+{
+  "question": "Un limitador es un compresor dinámico que...",
+  "a": "Varía su relación de compresión",
+  "b": "Atenúa las señales menores a un umbral definido",
+  "c": "Tiene una relación de compresión ∞:1",
+  "d": "Amplifica las señales menores a un umbral definido",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Qué efecto tiene un compresor de dinámica sobre una señal con ruido notable?",
+  "a": "Reduce la percepción del ruido",
+  "b": "Aumenta la percepción del ruido",
+  "c": "Elimina el ruido cuando la señal válida es débil",
+  "d": "No modifica la percepción del ruido",
+  "ans": "b"
+}
+,
+{
+  "question": "Los canales surround se encargan de reproducir...",
+  "a": "Los bajos de las explosiones",
+  "b": "Los efectos secundarios",
+  "c": "Las voces de los actores",
+  "d": "La banda sonora musical",
+  "ans": "b"
+}
+,
+{
+  "question": "¿Cuál de los siguientes equipos no suele conectarse a la entrada de un mezclador?",
+  "a": "Compresor dinámico",
+  "b": "Ecualizador paramétrico",
+  "c": "Puerta de ruido",
+  "d": "Reverb",
+  "ans": "d"
+}
+,
+{
+  "question": "¿Qué es un chorus?",
+  "a": "Un ecualizador",
+  "b": "Un procesador dinámico",
+  "c": "Un amplificador",
+  "d": "Un efecto",
+  "ans": "d"
+}
+,
+{
+  "question": "¿Qué procesador impide que la señal supere un nivel determinado?",
+  "a": "Limitador",
+  "b": "Puerta de ruido",
+  "c": "Compresor",
+  "d": "Expansor",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Qué filtro se utiliza para eliminar las frecuencias graves de una señal de audio?",
+  "a": "Filtro Shelving",
+  "b": "Filtro paso bajo",
+  "c": "Filtro paso alto",
+  "d": "Filtro banda eliminada",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cómo suele realizarse la mezcla de monitores de un músico con un mezclador?",
+  "a": "Bus de mezcla principal, salida a master",
+  "b": "Envio auxiliar postfader",
+  "c": "Salidas directas de los canales de entrada",
+  "d": "Envío prefader a auxiliares",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Qué bus se usa para la mezcla a monitores de músicos?",
+  "a": "Bus master",
+  "b": "Bus de grupos",
+  "c": "Bus de auxiliares",
+  "d": "Bus de CUE",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Qué otro nombre recibe el filtro banda eliminada cuando su factor de calidad es muy alto?",
+  "a": "Shelving",
+  "b": "Paramétrico",
+  "c": "Notch",
+  "d": "Puerta de ruido",
+  "ans": "c"
+}
+
+
+]
