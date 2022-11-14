@@ -19,11 +19,11 @@
 }
 ,
 {
-  "question": "Un cable de dos hilos activos, con malla conectada a masa, que se utiliza para transportar una señal de audio estéreo es...",
-  "a": "Ni apantallada ni balanceada",
-  "b": "Apantallada no balanceada",
-  "c": "Balanceada no apantallada",
-  "d": "Apantallada balanceada",
+  "question": "Un cable de dos hilos activos, con malla conectada a masa, se utiliza para transportar una señal de audio estéreo. El cable es...",
+  "a": "Ni apantallado ni balanceado",
+  "b": "Apantallado no balanceado",
+  "c": "Balanceado no apantallado",
+  "d": "Apantallado y balanceado",
   "ans": "b"
 }
 
