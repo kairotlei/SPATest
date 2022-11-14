@@ -8,14 +8,78 @@
   "c": "0 uPa",
   "d": "20 uPa",
   "ans": "d"
-},
+}
+,
 {
-  "question": "brocoli",
-  "a": "brocoli dB",
-  "b": "brocoli Pa",
-  "c": "brocoli uPa",
-  "d": "brocoli uPb",
+  "question": "En la reflexión sonora, el ángulo de incidencia y el reflejado son...",
+  "a": "Perpendiculares",
+  "b": "Diferentes",
+  "c": "Iguales",
+  "d": "Próximos",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Qué frecuencia tiene una onda de sonido que se propaga por el agua a 15 *C con una longitud de onda de 20 m?",
+  "a": "17 metros",
+  "b": "17 cm",
+  "c": "72.5 cm",
+  "d": "5.5 metros",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cuál es el margen de frecuencias de la audición humana?",
+  "a": "De 0-140 dB",
+  "b": "De 0-1000 Hz",
+  "c": "De 20-200 Hz",
+  "d": "De 20-20000 Hz",
   "ans": "d"
+}
+,
+{
+  "question": "¿Qué instrumento de medida se utiliza para conocer el nivel de los componentes de graves y agudos de un sonido?",
+  "a": "Polímetro",
+  "b": "Sonómetro",
+  "c": "Ecualizador gráfico",
+  "d": "Analizador de espectros",
+  "ans": "d"
+}
+,
+{
+  "question": "¿A qué fenómeno hace referencia la ley de Snell?",
+  "a": "Reflexión",
+  "b": "Absorción",
+  "c": "Refracción",
+  "d": "Difracción",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cuál de los siguientes valores de coeficiente de absorción es erróneo?",
+  "a": "a=0",
+  "b": "a=2",
+  "c": "a=1",
+  "d": "a=0.5",
+  "ans": "b"
+}
+,
+{
+  "question": "La longitud de onda y la frecuencia de una onda están relacionadas por...",
+  "a": "Amplitud",
+  "b": "Fase",
+  "c": "Velocidad de propagación",
+  "d": "Índice de refracción",
+  "ans": "c"
+}
+,
+{
+  "question": "El periodo y la frecuencia de una onda están relacionados...",
+  "a": "Inversamente",
+  "b": "Directamente",
+  "c": "No están relacionados",
+  "d": "Son el mismo parámetro",
+  "ans": "a"
 }
 
 ]
