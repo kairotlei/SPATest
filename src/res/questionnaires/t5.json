@@ -1,0 +1,113 @@
+[
+  
+
+{
+  "question": "Un byte son...",
+  "a": "10 b",
+  "b": "8 b",
+  "c": "1024 b",
+  "d": "1000 b",
+  "ans": "b"
+}
+,
+{
+  "question": "¿Qué frecuencia de muestreo mínima se necesita para digitalizar una señal de audio de 8 kHz?",
+  "a": "16 KHz",
+  "b": "8 KHz",
+  "c": "20 KHz",
+  "d": "40 KHz",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Cuántos niveles de cuantificación se obtienen al digitalizar una muestra de sonido con 8 b?",
+  "a": "8",
+  "b": "16",
+  "c": "80",
+  "d": "256",
+  "ans": "d"
+}
+,
+{
+  "question": "El error de cuantificación...",
+  "a": "Siempre existe",
+  "b": "Es mayor a más número de bits/muestra.",
+  "c": "Produce pérdidas de agudos",
+  "d": "Ninguna es correcta",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Cuántos bits se requieren para codificar en binario el valor decimal 10?",
+  "a": "2",
+  "b": "4",
+  "c": "5",
+  "d": "10",
+  "ans": "b"
+}
+,
+{
+  "question": "¿Qué tipo de codificación es PCM?",
+  "a": "Descomprimido",
+  "b": "Comprimido con pérdidas",
+  "c": "Compresión psicoacústica, con pérdidas ",
+  "d": "Compresión lineal, con pérdidas",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Qué tipo de codificación es MP3?",
+  "a": "Descomprimido",
+  "b": "Comprimido sin pérdidas",
+  "c": "Compresión psicoacústico, con pérdidas ",
+  "d": "Compresión lineal, con pérdidas",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Qué tipo de archivo es sin pérdidas?",
+  "a": "FLAC",
+  "b": "WAV",
+  "c": "OGG",
+  "d": "ADPCM",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Qué tipo de grabación usa el formato DAT?",
+  "a": "Magnética",
+  "b": "Óptica",
+  "c": "Magnetoóptica",
+  "d": "Memoria SSD",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Qué formato usa la codificación ATRAC?",
+  "a": "CD o DVD",
+  "b": "DAT",
+  "c": "MD",
+  "d": "ADAT",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Qué formmato permite audio envolvente o multicanal?",
+  "a": "DAT",
+  "b": "CD de música",
+  "c": "DVD de música",
+  "d": "Ninguno",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cuál de estos formatos NO es de estado sólido?",
+  "a": "LTO",
+  "b": "SD",
+  "c": "XD",
+  "d": "CF",
+  "ans": "a"
+}
+
+ 
+]
