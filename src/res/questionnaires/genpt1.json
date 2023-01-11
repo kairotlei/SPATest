@@ -1,0 +1,57 @@
+[
+  
+
+{
+  "question": "¿Qué tipo de dispositivo electrónico se utiliza para convertir la energía mecánica en energía eléctrica?",
+  "a": "Motor eléctrico",
+  "b": "Dinamo",
+  "c": "Transformador",
+  "d": "Interruptor",
+  "ans": "b"
+}
+,
+{
+  "question": ¿Qué tipo de componente electrónico se utiliza para controlar el paso de corriente en un circuito?",
+  "a": "Resistencia",
+  "b": "Condensador",
+  "c": "Inductor",
+  "d": "Interruptor",
+  "ans": "d"
+}
+,
+{
+  "question": "¿Cuál de estos componentes electrónicos se utiliza para almacenar carga eléctrica en un circuito?",
+  "a": "Bobina",
+  "b": "Condensador",
+  "c": "Resistencia",
+  "d": "Transistor",
+  "ans": "b"
+}
+,
+{
+  "question": "¿Qué tipo de dispositivo electrónico utiliza la tecnología del semiconductor para amplificar una señal eléctrica?",
+  "a": "Diodo",
+  "b": "Transistor",
+  "c": "Relé",
+  "d": "Potenciómetro",
+  "ans": "b"
+}
+,
+{
+  "question": "¿Qué componente eléctronico se usa para medir la tensión en un circuito?",
+  "a": "Voltímetro",
+  "b": "Ohmímetro",
+  "c": "Amperímetro",
+  "d": "Wattímetro",
+  "ans": "a"
+}
+,
+{
+  "question": "¿Qué tipo de circuito se utiliza para amplificar una señal eléctrica?",
+  "a": "Circuito RC",
+  "b": "Circuito RL",
+  "c": "Circuito LC",
+  "d": "Circuito de amplificación",
+  "ans": "d"
+}
+]
