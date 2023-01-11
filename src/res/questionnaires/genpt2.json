@@ -1,0 +1,57 @@
+[
+  
+
+{
+  "question": "¿Cuál de estas funciones se utiliza en Python para imprimir un mensaje en pantalla?",
+  "a": "scanf()",
+  "b": "getchar()",
+  "c": "printf()",
+  "d": "print()",
+  "ans": "d"
+}
+,
+{
+  "question":¿Qué tipo de estructura de control se utiliza en Python para iterar sobre una secuencia de elementos?",
+  "a": "while",
+  "b": "if/else",
+  "c": "switch/case",
+  "d": "for",
+  "ans": "d"
+}
+,
+{
+  "question": "¿Qué comando en Python se utiliza para importar un módulo o paquete específico?",
+  "a": "load",
+  "b": "include",
+  "c": "require",
+  "d": "import",
+  "ans": "d"
+}
+,
+{
+  "question": "¿Qué función en Python se utiliza para calcular la longitud de una cadena de caracteres?",
+  "a": "length()",
+  "b": "size()",
+  "c": "len()",
+  "d": "count()",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cuál es la sintaxis en Python para crear una función?",
+  "a": "func función():",
+  "b": "function función():",
+  "c": "def función():",
+  "d": "procedure función():",
+  "ans": "c"
+}
+,
+{
+  "question": "¿Cómo se puede acceder a un elemento de una lista en Python?",
+  "a": "lista[índice]",
+  "b": "lista.get(índice)",
+  "c": "lista.index(índice)",
+  "d": "lista.element(índice)",
+  "ans": "d"
+}
+]
