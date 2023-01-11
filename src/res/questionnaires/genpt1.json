@@ -11,7 +11,7 @@
 }
 ,
 {
-  "question": ¿Qué tipo de componente electrónico se utiliza para controlar el paso de corriente en un circuito?",
+  "question": "¿Qué tipo de componente electrónico se utiliza para controlar el paso de corriente en un circuito?",
   "a": "Resistencia",
   "b": "Condensador",
   "c": "Inductor",
