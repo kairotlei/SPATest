@@ -5,7 +5,7 @@
     "Audio 3" : "t3",
     "Audio 4" : "t4",
     "Audio 5" : "t5",
-    "Electrónica (generado por ChatGPT, revisado)" : "genpt1",
-    "Python (generado por ChatGPT, revisado)" : "genpt2"
+    "Electrónica (generado, revisado)" : "genpt1",
+    "Python (generado, revisado)" : "genpt2"
     }
 
