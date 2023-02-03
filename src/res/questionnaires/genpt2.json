@@ -11,7 +11,7 @@
 }
 ,
 {
-  "question":¿Qué tipo de estructura de control se utiliza en Python para iterar sobre una secuencia de elementos?",
+  "question":"¿Qué tipo de estructura de control se utiliza en Python para iterar sobre una secuencia de elementos?",
   "a": "while",
   "b": "if/else",
   "c": "switch/case",
