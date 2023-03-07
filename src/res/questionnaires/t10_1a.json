@@ -1,0 +1,139 @@
+[
+
+{
+  "question": "Al reproducir un CD, ¿Cuál de las siguientes situaciones se interpreta como un 1 lógico?",
+  "a": "Cuando el láser pasa por \n un una zona de land",
+  "b": "Cuando el láser pasa por \n una zona de pit",
+  "c": "Cuando el láser pasa \n de pit a land",
+  "d": "Ninguna es correcta",
+  "ans": "c"
+},
+{
+  "question": "En un compresor de audio, ¿Qué regula el mando denominado 'threshold'?",
+  "a": "El tiempo que tarda en \n activar la compresión",
+  "b": "El tiempo que tarda en \n desactivar la compresión",
+  "c": "La reducción de ganancia \n que aplica el compresor",
+  "d": "El nivel de entrada a partir del \n cual se activa el compresor",
+  "ans": "d"
+},
+{
+  "question": "¿En qué proceso se utiliza en principio del enmascaramiento del sonido?",
+  "a": "Digitalización de la señal de audio",
+  "b": "Grabación de audio analógico",
+  "c": "Ecualización de una sala",
+  "d": "Compresión digital de la señal de audio",
+  "ans": "d"
+},
+{
+  "question": "De las siguientes características, ¿cuál es una función específica de los mezcladores utilizados para radiodifusión?",
+  "a": "Silencia los monitores cuando \n se activan los micrófonos",
+  "b": "Permite conectar procesadores externos \n mediante líneas de inserción",
+  "c": "Incorpora entradas mono y estéreo",
+  "d": "Posee un ecualizador en cada entrada",
+  "ans": "a"
+},
+{
+  "question": "La directividad de un micrófono cardioide depende de la frecuencia de las ondas sonoras, pero en un hipercardioide no. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso ",
+  "c": "",
+  "d": "",
+  "ans": "b"
+},
+{
+  "question": "De los siguientes tipos de mezcladores de audio, ¿Cuál suele tener un mayor número de entradas?",
+  "a": "Mezclador de radiodifusión",
+  "b": "Mezclador de DJ",
+  "c": "Mezclador de directos",
+  "d": "Mezclador de megafonía",
+  "ans": "c"
+},
+{
+  "question": "¿Cómo suelen ser las impedancias en un amplificador?",
+  "a": "Alta en entrada, baja en salida",
+  "b": "Baja en entrada, alta en salida",
+  "c": "Alta en entrada y en salida",
+  "d": "Baja en entrada y en salida",
+  "ans": "a"
+},
+{
+  "question": "¿Qué tipo de línea de transmisión se utiliza habitualmente en conexiones de audio doméstico?",
+  "a": "Cable coaxial",
+  "b": "Línea apantallada balanceada",
+  "c": "Línea paralela bifilar",
+  "d": "Línea apantallada no balanceada",
+  "ans": "d"
+},
+{
+  "question": "¿Qué característica denota una mayor calidad en un equipo de audio?",
+  "a": "Un valor de distorsión grande",
+  "b": "Un valor de separación entre canales pequeño",
+  "c": "Un nivel de salida grande",
+  "d": "Un valor de relación señal ruido grande",
+  "ans": "d"
+},
+{
+  "question": "¿Qué ventaja tiene colocar el altavoz dentro de una caja?",
+  "a": "Aumenta la potencia máxima del altavoz",
+  "b": "Aumenta la impedancia del altavoz",
+  "c": "Puede aprovechar la radiación trasera del altavoz",
+  "d": "Reduce la sensibilidad del altavoz",
+  "ans": "c"
+},
+{
+  "question": "¿Qué ventaja tiene la utilización de sistemas de distribución de audio en tensión constante?",
+  "a": "Utiliza un nivel de potencia menor",
+  "b": "Proporciona un nivel de calidad acústica mayor",
+  "c": "Reduce los costes de la instalación",
+  "d": "Reduce las pérdidas en los cables de la instalación",
+  "ans": "d"
+},
+{
+  "question": "¿A qué tipo de entrada deberemos conectar un micrófono?",
+  "a": "Alto nivel con corrección",
+  "b": "Bajo nivel con corrección",
+  "c": "Alto nivel sin corrección",
+  "d": "Bajo nivel sin corrección",
+  "ans": "d"
+},
+{
+  "question": "De los siguientes parámetros de un micrófono, ¿Cuál define la capacidad de conversión de ondas de presión acústica en señales eléctricas?",
+  "a": "Impedancia",
+  "b": "Sensibilidad",
+  "c": "Directividad",
+  "d": "Respuesta en frecuencia",
+  "ans": "b"
+},
+{
+  "question": "Si queremos separar las señales de audio según su frecuencia, para amplificarlas por separado, el equipo que deberemos usar es un...",
+  "a": "Filtro paso banda",
+  "b": "Ecualizador gráfico",
+  "c": "Filtro crossover",
+  "d": "Ecualizador paramétrico",
+  "ans": "c"
+},
+{
+  "question": "¿Cuál de los siguientes elementos no forma parte de un altavoz?",
+  "a": "El acoplador de frecuencia",
+  "b": "El imán",
+  "c": "La bobina",
+  "d": "La membrana",
+  "ans": "a"
+},
+{
+  "question": "¿De qué depende la potencia de amplificación necesaria en una instalación de sonido?",
+  "a": "Del nivel de ruido de la sala, \n la sensibilidad del altavoz \n y de la distancia a los oyentes",
+  "b": "Del número de micrófonos o fuentes de sonido",
+  "c": "Del número de altavoces y del \n número de amplificadores que se instalen",
+  "d": "Del número de altavoces, \n nivel de ruido de la sala \n y de la altura del techo",
+  "ans": "a"
+},
+{
+  "question": "Indica cuáles de los siguientes tipos de micrófonos utilizan el principio electrodinámico",
+  "a": "Micrófono electret",
+  "b": "Micrófono de bobina",
+  "c": "Micrófono de cinta",
+  "d": "Micrófono de condensador",
+  "ans": "b"
+}
+]
