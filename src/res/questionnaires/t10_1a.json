@@ -2,7 +2,7 @@
 
 {
   "question": "Al reproducir un CD, ¿Cuál de las siguientes situaciones se interpreta como un 1 lógico?",
-  "a": "Cuando el láser pasa por \n un una zona de land",
+  "a": "Cuando el láser pasa por \n una zona de land",
   "b": "Cuando el láser pasa por \n una zona de pit",
   "c": "Cuando el láser pasa \n de pit a land",
   "d": "Ninguna es correcta",
@@ -132,8 +132,16 @@
   "question": "Indica cuáles de los siguientes tipos de micrófonos utilizan el principio electrodinámico",
   "a": "Micrófono electret",
   "b": "Micrófono de bobina",
-  "c": "Micrófono de cinta",
+  "c": "Micrófono de carbón",
   "d": "Micrófono de condensador",
   "ans": "b"
+},
+{
+  "question": "Indica cuáles de los siguientes tipos de micrófonos utilizan el principio electrodinámico",
+  "a": "Micrófono electret",
+  "b": "Micrófono de carbón",
+  "c": "Micrófono de cinta",
+  "d": "Micrófono de condensador",
+  "ans": "c"
 }
 ]
