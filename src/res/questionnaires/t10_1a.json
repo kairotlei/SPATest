@@ -1,7 +1,7 @@
 [
 
 {
-  "question": "Al reproducir un CD, ¿Cuál de las siguientes situaciones se interpreta como un 1 lógico?",
+  "question": "Al reproducir un CD, ¿cuál de las siguientes situaciones se interpreta como un 1 lógico?",
   "a": "Cuando el láser pasa por \n una zona de land",
   "b": "Cuando el láser pasa por \n una zona de pit",
   "c": "Cuando el láser pasa \n de pit a land",
@@ -9,7 +9,7 @@
   "ans": "c"
 },
 {
-  "question": "En un compresor de audio, ¿Qué regula el mando denominado 'threshold'?",
+  "question": "En un compresor de audio, ¿qué regula el mando denominado 'threshold'?",
   "a": "El tiempo que tarda en \n activar la compresión",
   "b": "El tiempo que tarda en \n desactivar la compresión",
   "c": "La reducción de ganancia \n que aplica el compresor",
@@ -41,7 +41,7 @@
   "ans": "b"
 },
 {
-  "question": "De los siguientes tipos de mezcladores de audio, ¿Cuál suele tener un mayor número de entradas?",
+  "question": "De los siguientes tipos de mezcladores de audio, ¿cuál suele tener un mayor número de entradas?",
   "a": "Mezclador de radiodifusión",
   "b": "Mezclador de DJ",
   "c": "Mezclador de directos",
@@ -97,7 +97,7 @@
   "ans": "d"
 },
 {
-  "question": "De los siguientes parámetros de un micrófono, ¿Cuál define la capacidad de conversión de ondas de presión acústica en señales eléctricas?",
+  "question": "De los siguientes parámetros de un micrófono, ¿cuál define la capacidad de conversión de ondas de presión acústica en señales eléctricas?",
   "a": "Impedancia",
   "b": "Sensibilidad",
   "c": "Directividad",
