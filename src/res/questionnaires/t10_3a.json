@@ -1,0 +1,174 @@
+[
+
+{
+  "question": "¿Cuál de las siguientes afirmaciones es la correcta?",
+  "a": "El plan de puesta en servicio es \n parte del protocolo de comprobación.",
+  "b": "El protocolo de comprobación es \n parte del plan de puesta en servicio.",
+  "c": "El plan de puesta en servicio y el protocolo \n de comprobación son el mismo documento.",
+  "d": "Ninguna de las respuestas anteriores es correcta.",
+  "ans": "El protocolo de comprobación es una \n parte del plan de puesta en servicio."
+},
+
+{
+  "question": "¿Qué equipo de medida deberemos utilizar para comprobar el nivel de luminancia de una señal de vídeo?",
+  "a": "Un vectorscopio.",
+  "b": "Un monitor de forma de onda.",
+  "c": "Ninguna de las anteriores es correcta.",
+  "d": "Un voltímetro RMS.",
+  "ans": "Un monitor de forma de onda."
+},
+
+{
+  "question": "Para garantizar el buen funcionamiento de una instalación, la puesta en servicio la realiza siempre el técnico encargado del equipo que ha realizado el montaje de la instalación. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Falso"
+},
+
+{
+  "question": "¿Qué elementos se comprueban durante el replanteo de una instalación?",
+  "a": "Ninguna de las respuestas anteriores \n es correcta.",
+  "b": "Ubiación de equipos y lugar de almacenamiento \n durante la fase de montaje, entre otros.",
+  "c": "Número de operarios necesarios en la instalación.",
+  "d": "Ubicación de equipos y suministro eléctrico,\n entre otros.",
+  "ans": "Ubiación de equipos y suministro eléctrico,\n entre otros."
+},
+
+{
+  "question": "El protocolo de comprobación dispone de unas casillas que se van rellenando a medida que se desarrollan las labores de puesta en servicio. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Verdadeiro"
+},
+
+{
+  "question": "Indica cuál de las siguientes secuencias tiene el orden adecuado.",
+  "a": "Ajustes iniciales, \n instalación de elementos opcionales, \n configuración de modos de trabajo.",
+  "b": "Ajustes iniciales, \n configuración de modos de trabajo, \n instalación de elementos opcionales.",
+  "c": "Configuración de modos de trabajo, \n ajustes iniciales, \n instalación de elementos opcionales.",
+  "d": "Instalación de elementos opcionales, \n ajustes iniciales, \n instalación de programas de aplicación.",
+  "ans": "Instalación de elementos opcionales, \n ajustes iniciales, \n instalación de programas de aplicación."
+},
+
+{
+  "question": "A la hora de dividir la instalación para facilitar la puesta en servicio, se deberán tener en cuenta que todas las partes deberán tener aproximadamente el mismo número de elementos. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Falso"
+},
+
+{
+  "question": "En las instalaciones audiovisuales es habitual encontrar un profesional encargado de la integración de los diferentes sistemas (audio, video, datos, etc.), con el que deberemos coordinarnos para garantizar que toda la instalación funciona correctamente. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Falso"
+},
+
+{
+  "question": "¿Cómo se acredita que una instalación funciona correctamente?",
+  "a": "Informe de puesta en marcha.",
+  "b": "Protocolo de comprobación de la instalación.",
+  "c": "Cuidando la calidad del trabajo \n durante el montaje.",
+  "d": "Plan de puesta en servicio.",
+  "ans": "Informe de puesta en marcha."
+},
+
+{
+  "question": "Para realizar el replanteo de una instalación, recorreremos los espacios en los que se alojarán los equipos y aquellos por los que discurrirán las canalizaciones y las líneas de conexión. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Verdadeiro"
+},  
+
+{
+  "question": "Para definir las áreas funcionales en las que se dividirá una instalación, de cara a su puesta en servicio, deberemos comprobar la documentación técnica de cada aparato que hayamos instalado. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Falso"
+},
+{
+  "question": "De los siguientes condicionantes de una instalación. ¿Cuál no es necesario tener en cuenta en la fase de montaje?",
+  "a": "Dimensiones de la sala en \n la que se montará el sistema.",
+  "b": "Climatización de la \n sala de aparatos.",
+  "c": "Capacidad de la acometida eléctrica.",
+  "d": "Conductos y canalizaciones necesarios.",
+  "ans": "Dimensiones de la sala en \n la que se montará el sistema."
+},
+{
+  "question": "Para medir la potencia de un equipo de audio se utilizan vatímetros RMS. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Falso"
+},
+{
+  "question": "Las señales de alto nivel no tienen un valor definido, ya que este depende directamente de la potencia del equipo. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Verdadeiro"
+},
+{
+  "question": "Al analizar los planos y esquemas, prestaremos especial atención al emplazamiento de los equipos. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Verdadeiro"
+},
+{
+  "question": "Si se transmiten señales de vídeo digital por líneas en las que se producen desadaptaciones de impedancia, el efecto más habitual será la aparición de jitter. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Verdadeiro"
+},
+{
+  "question": "¿Cuál de las siguientes fases se realiza antes que las demás?",
+  "a": "Secuenciación del montaje.",
+  "b": "Acopio de materiales y herramientas.",
+  "c": "Interpretación de la documentación \n técnica de la instalación.",
+  "d": "Identificación de puntos críticos \n del montaje.",
+  "ans": "Interpretación de la documentación \n técnica de la instalación."
+},
+{
+  "question": "Para poner en servicio un equipo informático en una instalación audiovisual, lo más habitual es instalar los programas de aplicación específicos antes de montar los elementos opcionales que se necesiten en la instalación. ¿Verdadero o falso?",
+  "a": "Verdadeiro",
+  "b": "Falso",
+  "c": "",
+  "d": "",
+  "ans": "Falso"
+},
+{
+  "question": "¿Qué criterios debemos seguir para definir los puntos de control en el proceso de puesta en servicio de una instalación audiovisual?",
+  "a": "Comprobar las entradas y salidas de \n cada área funcional, y los equipos \n que requieran ajustes iniciales.",
+  "b": "Comprobar las entradas y salidas \n de cada área funcional.",
+  "c": "Primar aquellos puntos que son más accesibles.",
+  "d": "Comprobar entradas y salidas de todos los equipos.",
+  "ans": "Comprobar las entradas y salidas de \n cada área funcional, y los equipos \n que requieran ajustes iniciales."
+},
+{
+  "question": "¿Qué valores de respuesta en frecuencia debe tener un equipo para que sea considerado de alta fidelidad?",
+  "a": "Ganancia mínima de 3 dB, \n entre 20 Hz y 20 kHz.",
+  "b": "Diferencia mínima de ganancia de \n 3 dB, entre 20 Hz y 20 kHz.",
+  "c": "Diferencia máxima de ganancia de \n 3 dB, entre 20 Hz y 20 kHz.",
+  "d": "Ganancia máxima de 3 dB, \n entre 20 Hz y 20 kHz.",
+  "ans": "Diferencia máxima de ganancia de \n 3 dB, entre 20 Hz y 20 kHz."
+}
+
+]
