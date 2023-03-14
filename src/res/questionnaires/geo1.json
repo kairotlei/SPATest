@@ -1,0 +1,321 @@
+[
+{
+  "question": "¿Cuál es el país más grande del mundo? ",
+  "a": "Rusia",
+  "b": "Australia",
+  "c": "Estados Unidos",
+  "d": "China",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el segundo páis más poblado del mundo después de China? ",
+  "a": "India",
+  "b": "Estados Unidos",
+  "c": "Brasil",
+  "d": "España",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el país con el área más grande de bosques tropicales del mundo? ",
+  "a": "Brasil",
+  "b": "Australia",
+  "c": "Indonesia",
+  "d": "Canadá",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el mayor lago de África? ",
+  "a": "Lago Victoria",
+  "b": "Lago Nasser",
+  "c": "Lago Tanganyika",
+  "d": "Lago Malawi",
+  "ans": "c"
+}
+, {
+  "question": "¿Cuál es el río más largo del mundo? ",
+  "a": "Río Nilo",
+  "b": "Río Amazonas",
+  "c": "Río Yangtsé",
+  "d": "Río Mississippi",
+  "ans": "b"
+}
+,{
+  "question": "¿Cuál es la cadena montañosa más grande del mundo? ",
+  "a": "Cordillera de los Himalaya",
+  "b": "Cordillera Apalaches",
+  "c": "Cordillera de las Montañas Rocosas",
+  "d": "Cordillera del Atlas",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el país más pequeño del mundo? ",
+  "a": "Vaticano",
+  "b": "Mónaco",
+  "c": "Andorra",
+  "d": "Liechtenstein",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el lago artificial más grande del mundo? ",
+  "a": "Lago Powell",
+  "b": "Lago Kariba",
+  "c": "Lago Mead",
+  "d": "Lago Nasser",
+  "ans": "d"
+}
+,{
+  "question": "¿Cuál es el punto más bajo de la superficie de la Tierra? ",
+  "a": "Mar Muerto",
+  "b": "Golfo de México",
+  "c": "Laguna Salada",
+  "d": "Golfo de Génova",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el punto más alto de la superficie de la Tierra? ",
+  "a": "Monte Everest",
+  "b": "Monte Kilimanjaro",
+  "c": "Monte Fuji",
+  "d": "Monte Elbrús",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el país que más islas tiene? ",
+  "a": "Indonesia",
+  "b": "Japón",
+  "c": "Islandia",
+  "d": "Filipinas",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es la isla más grande del mundo? ",
+  "a": "Groenlandia",
+  "b": "Australia",
+  "c": "Madagascar",
+  "d": "Sumatra",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es la ciudad más grande de América del Sur? ",
+  "a": "Santiago de Chile",
+  "b": "Río de Janeiro",
+  "c": "San Pablo",
+  "d": "Buenos Aires",
+  "ans": "c"
+}
+,{
+  "question": "¿Cuál es la ciudad con el puerto más grande del mundo? ",
+  "a": "Hong Kong",
+  "b": "Shanghái",
+  "c": "Singapur",
+  "d": "Rotterdam",
+  "ans": "d"
+}
+,{
+  "question": "¿Cuál es el estado estadounidense con la mayor área? ",
+  "a": "Alaska",
+  "b": "Texas",
+  "c": "California",
+  "d": "Arkansas",
+  "ans": "a"
+}
+, {
+  "question": "¿Cuál es el archipiélago más grande del mundo? ",
+  "a": "Islas Malvinas",
+  "b": "Islas Canarias",
+  "c": "Islas Aleutianas",
+  "d": "Islas Fiji",
+  "ans": "c"
+}
+,{
+  "question": "¿Cuál es el desierto más grande del mundo? ",
+  "a": "Desierto del Sahara",
+  "b": "Desierto de Gobi",
+  "c": "Desierto de Atacama",
+  "d": "Desierto de Kalahari",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el país con la mayor extensión de bosques tropicales de Europa? ",
+  "a": "Reino Unido",
+  "b": "España",
+  "c": "Alemania",
+  "d": "Francia",
+  "ans": "b"
+}
+,{
+  "question": "¿Cuál es el país con el mayor número de glaciares del mundo? ",
+  "a": "Antártida",
+  "b": "India",
+  "c": "Noruega",
+  "d": "Islandia",
+  "ans": "a"
+}
+,{
+  "question": "¿Cuál es el país con la mayor superficie de desierto del mundo? ",
+  "a": "Arabia Saudita",
+  "b": "Marruecos",
+  "c": "Egipto",
+  "d": "Marruecos",
+  "ans": "a"
+},{
+  "question": "¿Cuál es la capital de India?",
+  "a": "Nueva Delhi",
+  "b": "Mumbai",
+  "c": "Bangalore",
+  "d": "Kolkata",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el punto más alto de España?",
+  "a": "Pico de Teide",
+  "b": "Sierra Nevada",
+  "c": "Monte Oiz",
+  "d": "Monte Igueldo",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál de estos países no está ubicado en el continente europeo?",
+  "a": "Egipto",
+  "b": "Italia",
+  "c": "Grecia",
+  "d": "Alemania",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es la capital de Irlanda?",
+  "a": "Dublín",
+  "b": "Belfast",
+  "c": "Cork",
+  "d": "Limerick",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es la capital de Tailandia?",
+  "a": "Bangkok",
+  "b": "Chiang Mai",
+  "c": "Phuket",
+  "d": "Krabi",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el río más largo de América del Sur?",
+  "a": "Río Amazonas",
+  "b": "Río Paraná",
+  "c": "Río Orinoco",
+  "d": "Río Magdalena",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es la capital de Canadá?",
+  "a": "Ottawa",
+  "b": "Montreal",
+  "c": "Toronto",
+  "d": "Vancouver",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el lago más grande del mundo?",
+  "a": "Lago Superior",
+  "b": "Lago Victoria",
+  "c": "Lago Tanganica",
+  "d": "Lago Baikal",
+  "ans": "d"
+},
+{
+  "question": "¿Cuál es la capital de China?",
+  "a": "Pekín",
+  "b": "Shanghái",
+  "c": "Hong Kong",
+  "d": "Macao",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el punto más alto de África?",
+  "a": "Monte Kilimanjaro",
+  "b": "Monte Elgon",
+  "c": "Monte Meru",
+  "d": "Monte Kenya",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es la capital de Estados Unidos?",
+  "a": "Washington D.C.",
+  "b": "Nueva York",
+  "c": "Los Ángeles",
+  "d": "San Francisco",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el río más largo de Asia?",
+  "a": "Río Yangtze",
+  "b": "Río Mekong",
+  "c": "Río Ganges",
+  "d": "Río Amur",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es la capital de Francia?",
+  "a": "París",
+  "b": "Lyon",
+  "c": "Marsella",
+  "d": "Toulouse",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el lago más grande de África?",
+  "a": "Lago Victoria",
+  "b": "Lago Tanganica",
+  "c": "Lago Malawi",
+  "d": "Lago Turkana",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es la capital de Australia?",
+  "a": "Canberra",
+  "b": "Sídney",
+  "c": "Melbourne",
+  "d": "Brisbane",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el punto más bajo de Europa?",
+  "a": "Mar Muerto",
+  "b": "Lago Ladoga",
+  "c": "Lago Onega",
+  "d": "Lago Ilmen",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es la capital de Japón?",
+  "a": "Tokio",
+  "b": "Osaka",
+  "c": "Nagoya",
+  "d": "Kobe",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el río más largo de Europa?",
+  "a": "Río Volga",
+  "b": "Río Danubio",
+  "c": "Río Ural",
+  "d": "Río Dniéper",
+  "ans": "b"
+},
+{
+  "question": "¿Cuál es la capital de Rusia?",
+  "a": "Moscú",
+  "b": "San Petersburgo",
+  "c": "Novgorod",
+  "d": "Volgogrado",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál es el punto más alto de América del Sur?",
+  "a": "Aconcagua",
+  "b": "Cerro El Plomo",
+  "c": "Monte Elbrús",
+  "d": "Monte Aconcagua",
+  "ans": "a"
+}
+]
