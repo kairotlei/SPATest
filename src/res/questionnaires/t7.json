@@ -1,0 +1,101 @@
+[
+
+  
+{
+  "question": "¿La exploración de la imagen de vídeo se realiza de...?",
+  "a": "Derecha a izquierda y de abajo arriba",
+  "b": "Izquierda a derecha y de abajo arriba",
+  "c": "Derecha a izquierda y de arriba abajo",
+  "d": "Izquierda a derecha y de arriba abajo",
+  "ans": "d"
+},
+{
+  "question": "¿Cuáles son los colores primarios para el vídeo y la televisión?",
+  "a": "Rojo, verde y azul",
+  "b": "Cian, magenta y amarillo",
+  "c": "Rojo, verde y cian",
+  "d": "Rojo, verde y magenta",
+  "ans": "a"
+},
+{
+  "question": "¿Cuál de los siguientes colores puros es más luminoso?",
+  "a": "Rojo",
+  "b": "Verde",
+  "c": "Azul",
+  "d": "Amarillo",
+  "ans": "d"
+},
+{
+  "question": "¿Cuál de los siguientes valores es habitual en un vídeo a color para la cuantificación de las muestras?",
+  "a": "8 b/px",
+  "b": "10 b/px",
+  "c": "24 b/px",
+  "d": "256 b/px",
+  "ans": "c"
+},
+{
+  "question": "¿Cuál es la norma UIT-R para vídeo de alta definición?",
+  "a": "BT-601",
+  "b": "BT-709",
+  "c": "BT-2020",
+  "d": "Ninguna de las anteriores",
+  "ans": "b"
+},
+{
+  "question": "¿Cuál es la señal de vídeo analógica que tiene mayor calidad?",
+  "a": "Vídeo compuesto",
+  "b": "Vídeo en componentes",
+  "c": "Supervídeo",
+  "d": "Ninguna de las anteriores",
+  "ans": "b"
+},
+{
+  "question": "¿Qué equipo de medida de calidad de la señal de vídeo permite comprobar fielmente la señal de color?",
+  "a": "Osciloscopio",
+  "b": "Monitor forma de onda",
+  "c": "Analizador de espectros",
+  "d": "Vectorscopio",
+  "ans": "d"
+},
+{
+  "question": "¿Cuál de los siguientes equipos distribuidores de se- ñal permite configurar manualmente el direccionamiento de señales mediante latiguillos?",
+  "a": "Patch panel",
+  "b": "Splitter",
+  "c": "Matrices",
+  "d": "Preselectores",
+  "ans": "a"
+},
+{
+  "question": "¿Qué característica diferencia los videoservidores de otros equipos servidores de datos?",
+  "a": "La capacidad de almacenamiento",
+  "b": "La conexión a red de alta velocidad",
+  "c": "La posibilidad de múltiples usuarios \n accediendo a los mismos contenidos",
+  "d": "No existe ninguna diferencia entre \n un servidor y un videoservidor",
+  "ans": "c"
+},
+{
+  "question": "¿Qué estándar se utiliza en la compresión de vídeo en DVD?",
+  "a": "MPEG-1",
+  "b": "MPEG-2",
+  "c": "MPEG-4",
+  "d": "HEVC",
+  "ans": "b"
+},
+{
+  "question": "¿Qué tipo de redundancia aprovecha la compresiónde vídeo intra?",
+  "a": "Redundancia espacial",
+  "b": "Redundancia temporal",
+  "c": "Redundancia espacial y temporal",
+  "d": "Ninguna de las anteriores",
+  "ans": "a"
+},
+{
+  "question": "¿Qué consigue la transformada discreta del coseno(DC) al aplicarse en una imagen digital?",
+  "a": "La concentración de coeficientes en pocos valores",
+  "b": "La transformación de coordenadas espaciales en \nfrecuenciales",
+  "c": "La compresión de la imagen",
+  "d": "Todas las respuestas anteriores son correctas",
+  "ans": "d"
+}
+
+]
