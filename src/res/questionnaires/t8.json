@@ -1,0 +1,136 @@
+[
+{
+  "question": "¿Cuál de las siguientes ópticas se elegiría para tener el máximo ángulo de cobertura posible?",
+  "a": "4 mm",
+  "b": "8 mm",
+  "c": "50 mm",
+  "d": "100 mm",
+  "ans": "a"
+},
+
+{
+  "question": "¿Cuál de las siguientes lentes es más luminosa?",
+  "a": "F5.6",
+  "b": "F3.2",
+  "c": "F11",
+  "d": "F22",
+  "ans": "b"
+},
+
+{
+  "question": "¿Qué diferencia hay entre un dispositivo DVR y un dispositivo NVR?",
+  "a": "Los DVR no permiten grabación en \n memorias de estado sólido y los NVR sí",
+  "b": "Los DVR no permiten grabación \n de vídeo en red y los NVR sí",
+  "c": "Los DVR no admiten señales de \n vídeo digital y los NVR sí",
+  "d": "Los DVR son digitales, los NVR analógicos",
+  "ans": "b"
+},
+
+{
+  "question": "¿Qué tipo de ondas utilizan las cámaras de visión nocturna para poder mostrar las imágenes en absoluta oscuridad?",
+  "a": "Ultravioletas",
+  "b": "Microondas",
+  "c": "Infrarrojos",
+  "d": "Radiofrecuencia",
+  "ans": "c"
+},
+
+{
+  "question": "¿Qué herramienta se utiliza para la conexión de cables de par trenzado con conectores RJ-45?",
+  "a": "Destornillador",
+  "b": "Fusionadora",
+  "c": "Soldador",
+  "d": "Crimpadora",
+  "ans": "d"
+},
+
+{
+  "question": "¿Qué elemento es prescindible en una instalación de circuito cerrado de televisión?",
+  "a": "Cámara",
+  "b": "Línea de transmisión",
+  "c": "Grabador",
+  "d": "Ninguno es prescindible",
+  "ans": "c"
+},
+
+{
+  "question": "¿Cuál de los siguientes parámetros influye en el tamaño de los ficheros de vídeo grabados en un sistema de vigilancia?",
+  "a": "Códec de compresión",
+  "b": "Resolución de la imagen",
+  "c": "Fotogramas por segundo del vídeo",
+  "d": "Todas son correctas",
+  "ans": "d"
+},
+
+{
+  "question": "¿En qué tipo de instalaciones de vídeo puede realizarse monitorización remota?",
+  "a": "CCTV analógicos convencionales",
+  "b": "CCTV digitales",
+  "c": "Sistemas de videovigilancia digitales",
+  "d": "Sistemas de vigilancia en red",
+  "ans": "d"
+},
+
+{
+  "question": "El distintivo informativo zona videovigilada es",
+  "a": "obligatorio en cualquier instalación \n de seguridad que incluya camaras",
+  "b": "opcional en todas las instalaciones \n de videovigilancia",
+  "c": "obligatorio en cualquier instalación \n de vídeo en la que se graben imágenes",
+  "d": "obligatorio solo en las instalaciones \n de seguridad en red IP",
+  "ans": "c"
+},
+
+{
+  "question": "¿Cuál de los siguientes dispositivos podría ser alimentado mediante el protocolo PoE que suministra corriente eléctrica utilizando el cable de transmisión de datos?",
+  "a": "Magnetoscopio",
+  "b": "NVR",
+  "c": "Monitor",
+  "d": "Cámara",
+  "ans": "d"
+},
+
+{
+  "question": "Un QUAD es un equipo que puede utilizarse en un sistema de circuito cerrado de televisión para",
+  "a": "secuenciar la visualización de imágenes \n a intervalos de tiempo en un monitor",
+  "b": "elegir la cámara que desea visualizarse \n en cada momento",
+  "c": "monitorizar cuatro cámaras en un solo monitor",
+  "d": "multiplexar la imagen de más de \n 4 cámaras en un monitor",
+  "ans": "c"
+},
+
+{
+  "question": "Un equipo con una altura de 3U preparado para ser montado en un rack tiene una altura de..",
+  "a": "3 in",
+  "b": "3 cm",
+  "c": "5,25 in",
+  "d": "5,25 cm",
+  "ans": "c"
+},
+
+{
+  "question": "¿Cuál de los siguientes tipos de cámara profesional incorpora su propio grabador de vídeo?",
+  "a": "ENG",
+  "b": "Cámara de estudio",
+  "c": "EFP",
+  "d": "Todas son correctas",
+  "ans": "a"
+},
+
+{
+  "question": "¿Cuál de los siguientes sistemas de localización que se utiliza en los estudios virtuales es el que ofrece mayores limitaciones?",
+  "a": "Planos predefinidos",
+  "b": "Sistema de balizas",
+  "c": "Matriz de imagen",
+  "d": "Sensores de posición",
+  "ans": "a"
+},
+
+{
+  "question": "¿Qué tecnología utilizan los monitores LED?",
+  "a": "Plasma",
+  "b": "LCD",
+  "c": "Tubo de rayos catódicos",
+  "d": "Ninguna es correcta",
+  "ans": "b"
+}
+]
