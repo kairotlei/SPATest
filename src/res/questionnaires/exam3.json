@@ -1,0 +1,275 @@
+[
+{
+  "question": "Esta teoría sostenía que la luz tenía una naturaleza ondulatoria y mantenía que la masa de los cuerpos que emiten luz no cambia, es decir, que la luz es una onda que necesita un medio para su propagación, al que denominó éter luminífero",
+  "a": "Teoría corpuscular de Newton",
+  "b": "Teoría cuántica de Planck",
+  "c": "Teoría ondulatoria de Huygens",
+  "d": "Teoría electromagnética de Maxwell",
+  "ans": "c"
+},
+{
+  "question": "Son unos dispositivos que se colocan en el extremo del sistema óptico y que permiten protegerlo de las inclemencias meteorológicas, así como de la luz incidente de forma directa que pueda propiciar cualquier tipo de efecto indeseable sobre la lente y, por tanto, afectar a la calidad de la imagen que se quiere captar",
+  "a": "Controles de óptica",
+  "b": "Adaptadores y conversores ópticos",
+  "c": "Parasoles",
+  "d": "Filtros ópticos",
+  "ans": "c"
+},
+{
+  "question": "Es el efecto que se produce cuando dos o más ondas se superponen entre si dando lugar a una onda de mayor, menor o igual amplitud. Este fenómeno se da con todo tipo de ondas electromagnéticas, no solo con la luz",
+  "a": "Fenómeno de interferencia",
+  "b": "Fenómeno de difracción de la luz",
+  "c": "Fenómeno de polarización de la luz",
+  "d": "Fenómeno de absorción",
+  "ans": "a"
+},
+{
+  "question": "Esta teoría establece que las ondas electromagnéticas están compuestas por cuantos o electrones que poseen una cantidad de energía, la cual es proporcional a la frecuencia de la luz",
+  "a": "Teoría corpuscular de Newton",
+  "b": "Teoría cuántica de Planck",
+  "c": "Teoría ondulatoria de Huygens",
+  "d": "Teoría electromagnética de Maxwell",
+  "ans": "b"
+},
+{
+  "question": "Este conmutador permite modificar la ganancia de la señal de vídeo en escenas donde las condiciones de iluminación sean escasas",
+  "a": "Rueda de selección de filtros",
+  "b": "Ganancia",
+  "c": "Memorias NB",
+  "d": "Botón 'preset'",
+  "ans": "b"
+},
+{
+  "question": "Este conmutador permite acceder a la generación de la señal de barras que sirve como una referencia para establecer la correcta grabación, reproducción y retransmisión de la señal de vídeo",
+  "a": "'Gen-Lock'",
+  "b": "'Shutter' u obturador",
+  "c": "Botón 'preset'",
+  "d": "Barras de color / Cam",
+  "ans": "d"
+},
+{
+  "question": "La luz dura se puede emplear si se persiguen los siguientes efectos, principalmente",
+  "a": "Crear formas nítidas y precisas",
+  "b": "Conseguir progresiones \n de tonos suaves",
+  "c": "Suavizar el modelado y \n la textura de la escena",
+  "d": "Producir sombras acentuadas",
+  "ans": "d"
+},
+{
+  "question": "La función principal de este tipo de proyectores es la de proporcionar luz de relleno e iluminar bien los fondos",
+  "a": "Proyectores de luz suave",
+  "b": "Proyectores de luz concentrada o Fresnel",
+  "c": "Proyectores de efectos",
+  "d": "Proyectores de seguimiento",
+  "ans": "a"
+},
+{
+  "question": "Es el lugar que se encuentra debajo del suelo del escenario y sirve para guardar los elevadores-montacargas o circuitos hidráulicos, que permiten llevar a cabo los efectos especiales en escena y los cambios de escenografía",
+  "a": "Foso",
+  "b": "Telar",
+  "c": "Escena",
+  "d": "Telón",
+  "ans": "a"
+},
+{
+  "question": "Son elementos que se colocan al lado de la bambalina y delimitan la visión de los laterales y de toda la iluminación existente en esa parte del escenario",
+  "a": "Bastidores",
+  "b": "Patas",
+  "c": "Hombros",
+  "d": "Bambalinas",
+  "ans": "b"
+},
+{
+  "question": "Es la radicación luminosa de una fuente en una dirección dada. Se mide en candelas o en bujías",
+  "a": "Intensidad luminosa",
+  "b": "Flujo luminoso",
+  "c": "Iluminación",
+  "d": "Brillo o luminancia",
+  "ans": "a"
+},
+{
+  "question": "Se utilizan para transmitir la luz en distintos grados reduciendo la intensidad luminosa",
+  "a": "Difusores",
+  "b": "Viseras",
+  "c": "Banderas",
+  "d": "Pantallas reflectoras",
+  "ans": "a"
+},
+{
+  "question": "Estos proyectores se emplean para realizar el seguimiento continuo de la acción llevada a cabo por actores, presentadores, etc. La intensidad del haz se regula con un obturador y el área que cubre puede producir bordes suaves",
+  "a": "Proyectores de luz suave",
+  "b": "Proyectores de luz concentrada o Fresnel",
+  "c": "Proyectores de efectos",
+  "d": "Proyectores de seguimiento",
+  "ans": "d"
+},
+{
+  "question": "Es el flujo luminoso que recae sobre un elemento que posee una superficie determinada. Se mide en luxes o en candela-pie",
+  "a": "Intensidad luminosa",
+  "b": "Flujo luminoso",
+  "c": "Iluminación",
+  "d": "Brillo o luminancia",
+  "ans": "d"
+},
+{
+  "question": "Permiten ajustar el ancho y alto del haz luminoso. Son unas piezas de metal negro que se colocan en la parte delantera del proyector",
+  "a": "Difusores",
+  "b": "Viseras",
+  "c": "Crémeres con rótula",
+  "d": "Pantallas reflectoras",
+  "ans": "b"
+},
+{
+  "question": "Permiten proyectar figuras de luz en áreas determinadas con unos bordes suaves o recortados",
+  "a": "Proyectores de luz suave",
+  "b": "Proyectores de luz concentrada o Fresnel",
+  "c": "Proyectores de efectos",
+  "d": "Proyectores de seguimiento",
+  "ans": "b"
+},
+{
+  "question": "¿Cuál es la causa más probable de la aparición de 'artifacts' en las imágenes comprimidas?",
+  "a": "Baja resolución de la imagen",
+  "b": "Mala calidad de los cables y conectores",
+  "c": "Elevado grado de compresión",
+  "d": "Ninguna",
+  "ans": "c"
+},
+{
+  "question": "¿Qué es MPEG?",
+  "a": "Un formato de compresión de vídeo",
+  "b": "Un formato de compresión de vídeo y audio",
+  "c": "Un grupo de trabajo formado por \n expertos en imágenes en movimiento",
+  "d": "Ninguna",
+  "ans": "c"
+},
+{
+  "question": "Cuando un mezclador de video conmuta entre una señal de vídeo y otra, ¿en qué momento se realiza la conmutación?",
+  "a": "En cualquier momento",
+  "b": "En el intervalo vertical",
+  "c": "En el intervalo horizontal",
+  "d": "Entre un campo y otro de un cuadro \n (en vídeo entrelazado)",
+  "ans": "b"
+},
+{
+  "question": "¿Qué tipo de equipo de vídeo es un 'splitter'?",
+  "a": "Un panel de interconexión",
+  "b": "Un distribuidor de vídeo",
+  "c": "Un preselector",
+  "d": "Una matriz",
+  "ans": "b"
+},
+{
+  "question": "¿Qué formato de compresión de vídeo se denomina comúnmente MPEG-4?",
+  "a": "H.261",
+  "b": "H.263",
+  "c": "H.264",
+  "d": "H.265",
+  "ans": "c"
+},
+{
+  "question": "¿Qué equipo de medida de la señal de vídeo permite evaluar con precisión sus componentes de crominancia?",
+  "a": "Osciloscopio",
+  "b": "Vectorscopio",
+  "c": "Monitor forma de onda",
+  "d": "Analizador de espectros",
+  "ans": "b"
+},
+{
+  "question": "Un vídeo entrelazado de 60 campos por segundo está formado por..",
+  "a": "60 fotogramas/segundo",
+  "b": "25 fotogramas/segundo",
+  "c": "30 fotogramas/segundo",
+  "d": "Ninguna",
+  "ans": "c"
+},
+{
+  "question": "¿Cuántos colores puede tener un píxel cuantificado con 6 bits (2 por cada canal RGB)?",
+  "a": "6 colores",
+  "b": "64 colores",
+  "c": "128 colores",
+  "d": "256 colores",
+  "ans": "b"
+},
+{
+  "question": "¿Cuál es la señal de video analógico de peor calidad?",
+  "a": "Vídeo en componentes Y, Pb, Pr",
+  "b": "Vídeo compuesto",
+  "c": "Super Vídeo",
+  "d": "Vídeo en componentes RGB",
+  "ans": "b"
+},
+{
+  "question": "¿Cuál es el códec de grabación de video más extendido en DVR?",
+  "a": "MPEG-1",
+  "b": "MPEG-2",
+  "c": "MPEG-4",
+  "d": "HEVC",
+  "ans": "c"
+},
+{
+  "question": "¿Cuál de los siguientes sistemas de localización que se utiliza en los estudios virtuales extrae la información de la posición de la cámara de la propia imagen que capta la cámara?",
+  "a": "Planos definidos",
+  "b": "Sistema de balizas",
+  "c": "Matriz de imagen",
+  "d": "Sensores de posición",
+  "ans": "d"
+},
+{
+  "question": "¿Cuál es el elemento esencial de todo sistema CCTV?",
+  "a": "Grabador de vídeo",
+  "b": "Procesador QUAD",
+  "c": "Cámara de vídeo",
+  "d": "Sistema de telemetría",
+  "ans": "c"
+},
+{
+  "question": "¿Qué herramienta se utiliza para empalmar fibra óptica?",
+  "a": "Destomillador",
+  "b": "Fusionadora",
+  "c": "Soldador",
+  "d": "Crimpadora",
+  "ans": "b"
+},
+{
+  "question": "Una cámara de vídeo con lente de focal variable permite..",
+  "a": "Modificar el plano de enfoque",
+  "b": "Acercar o alejar la imagen (zoom)",
+  "c": "Abrir o cerrar el diafragma para \n controlar el paso de luz",
+  "d": "Modificar la velocidad de captación (fps)",
+  "ans": "b"
+},
+{
+  "question": "Un monitor Full HD tiene una resolución de..",
+  "a": "720 x 576 pixeles",
+  "b": "1080 x 720 píxeles",
+  "c": "1920 x 720 píxeles",
+  "d": "1920 x 1080 píxeles",
+  "ans": "d"
+},
+{
+  "question": "En una instalación de videovigilancia en la que el centro de monitorizado se encuentre lejos de la instalación, se debe optar por una configuración en red...",
+  "a": "Siempre",
+  "b": "Nunca",
+  "c": "Opcionalmente",
+  "d": "Depende",
+  "ans": "c"
+},
+{
+  "question": "¿Qué varía en una señal de vídeo SD con respecto a HD?",
+  "a": "Su profundidad de color",
+  "b": "Su tasa de fotogramas por segundo",
+  "c": "Su resolución",
+  "d": "Ninguna",
+  "ans": "c"
+},
+{
+  "question": "En un estudio de televisión, ¿qué equipo es una 'cabeza caliente'?",
+  "a": "Un mezclador de vídeo",
+  "b": "Un tipo de luminaria",
+  "c": "Un sistema de microfonía",
+  "d": "Una grúa para cámaras",
+  "ans": "d"
+}
+
+]
